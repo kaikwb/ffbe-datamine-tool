@@ -1,0 +1,1254 @@
+{
+	"F_ABILITY_EXPLAIN_MST": {
+		"Name": "7FGj2bCh",
+		"Key": "B2Ka3kft"
+	},
+	"F_ABILITY_MST": {
+		"Name": "TK61DudV",
+		"Key": "4sPQ8aXo"
+	},
+	"F_ABILITY_SWITCH_INFO_EXT_MST": {
+		"Name": "V1eqPt26",
+		"Key": "cufq5A4D"
+	},
+	"F_AI_MST": {
+		"Name": "PCm9K3no",
+		"Key": "yFr6Kj3P"
+	},
+	"F_ANIMATION_MST": {
+		"Name": "N87mXCEp",
+		"Key": "6BmdUqg2"
+	},
+	"F_ARCHIVE_MST": {
+		"Name": "Wmd5K32b",
+		"Key": "t3T1hELp"
+	},
+	"F_AREA_MST": {
+		"Name": "Fvix6V0n",
+		"Key": "pR2DHS6i"
+	},
+	"F_AREA_POS_OVERRIDE_MST": {
+		"Name": "sB9NA7S8",
+		"Key": "tgp8eNH7"
+	},
+	"F_AREA_PROCESS_PASSIVE_TYPE_MST": {
+		"Name": "bMKn67IS",
+		"Key": "wPF2u5of"
+	},
+	"F_AWARD_EXPLAIN_MST": {
+		"Name": "B2mKN0M4",
+		"Key": "0FfIgG67"
+	},
+	"F_AWARD_MST": {
+		"Name": "xH4WGNk8",
+		"Key": "HZgmc2u9"
+	},
+	"F_AWARD_TYPE_MST": {
+		"Name": "jsX49HtE",
+		"Key": "t3IEWke8"
+	},
+	"F_BANNER_MST": {
+		"Name": "oB0YVw67",
+		"Key": "C6ci5pfG"
+	},
+	"F_BATTLE_BG_MST": {
+		"Name": "bqR4p8SN",
+		"Key": "39mEiDNB"
+	},
+	"F_BATTLE_SCRIPT_MST": {
+		"Name": "dhR7sSxt",
+		"Key": "QuxKHQQT"
+	},
+	"F_BEAST_BOARD_PIECE_EXT_MST": {
+		"Name": "5o0Z6Gwn",
+		"Key": "Knh15FzM"
+	},
+	"F_BEAST_BOARD_PIECE_MST": {
+		"Name": "E9z2e4UZ",
+		"Key": "XvkVU34H"
+	},
+	"F_BEAST_CP_MST": {
+		"Name": "dzA5MC6f",
+		"Key": "Syax34vR"
+	},
+	"F_BEAST_EXPLAIN_MST": {
+		"Name": "J3BkY7wT",
+		"Key": "jw0X2ZNm"
+	},
+	"F_BEAST_EXP_PATTERN_MST": {
+		"Name": "42JaImDh",
+		"Key": "UY7D3dpn"
+	},
+	"F_BEAST_GROW_MST": {
+		"Name": "tSb4Y8QR",
+		"Key": "7YUDsew3"
+	},
+	"F_BEAST_MST": {
+		"Name": "WF57bvfG",
+		"Key": "hdFeT14k"
+	},
+	"F_BEAST_SKILL_MST": {
+		"Name": "zE1hx53P",
+		"Key": "Y4Fds1Jr"
+	},
+	"F_BEAST_STATUS_MST": {
+		"Name": "tWp7f5Ma",
+		"Key": "XuWn97Hf"
+	},
+	"F_CAPTURE_MST": {
+		"Name": "65fHqgnT",
+		"Key": "w1A9S5sr"
+	},
+	"F_CHAIN_FAMILY_DETAIL_MST": {
+		"Name": "wBnzcySj",
+		"Key": "AxShHtr3"
+	},
+	"F_CHAIN_FAMILY_MST": {
+		"Name": "d2mmSNEP",
+		"Key": "6swDqsej"
+	},
+	"F_CHALLENGE_MST": {
+		"Name": "GL9t6cMF",
+		"Key": "8Dx2QUZS"
+	},
+	"F_CHARACTER_MST": {
+		"Name": "cf29diuR",
+		"Key": "ru39Q4YK"
+	},
+	"F_CLSM_GRADE_MST": {
+		"Name": "q14CSpIb",
+		"Key": "sn8QPJ24"
+	},
+	"F_CLSM_PROGRESS_MST": {
+		"Name": "pF3JiA6L",
+		"Key": "h8Za6TiL"
+	},
+	"F_CLSM_RANK_MST": {
+		"Name": "W2f5GThw",
+		"Key": "jtbur0h5"
+	},
+	"F_CLSM_ROUND_MST": {
+		"Name": "7zEc85n1",
+		"Key": "V4wZA7Hn"
+	},
+	"F_COMEBACK_LOGIN_MST": {
+		"Name": "ElNwW49V",
+		"Key": "kR71T42e"
+	},
+	"F_COMMUNITY_DUNGEON_MST": {
+		"Name": "6DDX7Kbk",
+		"Key": "TPWnfEAt"
+	},
+	"F_CRAFT_EXT_MST": {
+		"Name": "1GPYxQR3",
+		"Key": "eHn8EU5o"
+	},
+	"F_DEFINE_MST": {
+		"Name": "zg5P1AxM",
+		"Key": "Zib6m5ed"
+	},
+	"F_DIAMOND_MST": {
+		"Name": "mo47BaST",
+		"Key": "p9sk1MjH"
+	},
+	"F_DUNGEON_MST": {
+		"Name": "1Bj4oy5Q",
+		"Key": "9bEA2SYP"
+	},
+	"F_EFFECT_GROUP_MST": {
+		"Name": "ZM06fUem",
+		"Key": "4WipzuH2"
+	},
+	"F_EFFECT_MST": {
+		"Name": "HfRPdg65",
+		"Key": "d4KR8YSq"
+	},
+	"F_EMBED_MESSAGE_MST": {
+		"Name": "QH70YTbz",
+		"Key": "TBR67CKE"
+	},
+	"F_EMBLEM_ITEM_MST": {
+		"Name": "SuM2XA05",
+		"Key": "UyE6HP3h"
+	},
+	"F_EMBLEM_MONTHLY_MST": {
+		"Name": "abac7344",
+		"Key": "8dea219c"
+	},
+	"F_EMBLEM_WEEKLY_MST": {
+		"Name": "67456bd9",
+		"Key": "a360727e"
+	},
+	"F_ENCOUNT_FIELD_MST": {
+		"Name": "2Jtkc4Ar",
+		"Key": "mhok0p7B"
+	},
+	"F_EQUIP_ITEM_EXPLAIN_MST": {
+		"Name": "psuJ5VE2",
+		"Key": "r6PSK8QW"
+	},
+	"F_EQUIP_ITEM_MST": {
+		"Name": "S67QEJsz",
+		"Key": "T1kP80NU"
+	},
+	"F_EXCHANGE_SHOP_ITEM_MST": {
+		"Name": "5hYf3xv1",
+		"Key": "sg3fXED8"
+	},
+	"F_EXPEDITION_DIFFICULTY_MST": {
+		"Name": "4Xy9386a",
+		"Key": "0vkM7772"
+	},
+	"F_EXPEDITION_MST": {
+		"Name": "TdE7Oasq",
+		"Key": "fFx92pYD"
+	},
+	"F_EXVIUS_POINT_REWARD_MST": {
+		"Name": "jiSF1p9I",
+		"Key": "h8x1tiwz"
+	},
+	"F_FIELD_EFFECT_MST": {
+		"Name": "sd1a2bPL",
+		"Key": "GP2Y87Xt"
+	},
+	"F_FIXED_BEAST_MST": {
+		"Name": "VmvPBaqv",
+		"Key": "tEVAFPmf"
+	},
+	"F_FIXED_PARTY_MISSION_MST": {
+		"Name": "zyG7uDTr",
+		"Key": "Tjtz9UPY"
+	},
+	"F_FIXED_UNIT_MST": {
+		"Name": "22Yd29Ft",
+		"Key": "LjXDtZEQ"
+	},
+	"F_FOOTPRINT_MST": {
+		"Name": "q3jTCo8m",
+		"Key": "iI7aS2oq"
+	},
+	"F_FUNCTION_MST": {
+		"Name": "6wibj9m8",
+		"Key": "sy6GRuY2"
+	},
+	"F_GACHA_DETAIL_EXTRA_MST": {
+		"Name": "p3NngNXw",
+		"Key": "7jxqirMk"
+	},
+	"F_GACHA_EFFECT_BLOCK_MST": {
+		"Name": "fDI1T97q",
+		"Key": "7H3P6zF4"
+	},
+	"F_GACHA_EFFECT_PATTERN_MST": {
+		"Name": "uw07SXpU",
+		"Key": "48HhnaKP"
+	},
+	"F_GACHA_SELECT_PRISM_MST": {
+		"Name": "9i6xZoRK",
+		"Key": "p2jfDqJD"
+	},
+	"F_GACHA_SELECT_UNIT_MST": {
+		"Name": "qRb73JSY",
+		"Key": "H9Jye1j3"
+	},
+	"F_GACHA_WHEEL_EFFECT_MST": {
+		"Name": "6dlDoBxM",
+		"Key": "Tgwqv2Tp"
+	},
+	"F_GALLERY_MST": {
+		"Name": "C3PUoJ4T",
+		"Key": "3ZKzx4uV"
+	},
+	"F_GAME_TITLE_MST": {
+		"Name": "91D3CfxA",
+		"Key": "yFZs58K7"
+	},
+	"F_GIFT_MST": {
+		"Name": "AK5v1YEd",
+		"Key": "1cJ4IuP9"
+	},
+	"F_HIDDEN_SKILL_MST": {
+		"Name": "FWUA4NVN",
+		"Key": "bECcUBPa"
+	},
+	"F_HIT_TYPE_MST": {
+		"Name": "w2njKyi7",
+		"Key": "pdV8trN7"
+	},
+	"F_ICON_MST": {
+		"Name": "LM1APs6u",
+		"Key": "8XT23CYy"
+	},
+	"F_IMAGE_SWITCHING_MST": {
+		"Name": "K4rvk96u",
+		"Key": "Ne92GPyR"
+	},
+	"F_IMPORTANT_ITEM_EXPLAIN_MST": {
+		"Name": "Nny6xD90",
+		"Key": "89fcSX4v"
+	},
+	"F_IMPORTANT_ITEM_MST": {
+		"Name": "vdeSoq61",
+		"Key": "tnNGLk45"
+	},
+	"F_ITEM_EXPLAIN_MST": {
+		"Name": "E7YMdK3P",
+		"Key": "TERM4PD7"
+	},
+	"F_ITEM_EXT_BEAST_MST": {
+		"Name": "hc8Ham29",
+		"Key": "wZ5IkW2f"
+	},
+	"F_ITEM_MST": {
+		"Name": "1CUX0Qwr",
+		"Key": "L3f8nko1"
+	},
+	"F_JOB_MST": {
+		"Name": "F2mQ87Wt",
+		"Key": "3CVoZu7s"
+	},
+	"F_LAND_MST": {
+		"Name": "23yVcGpH",
+		"Key": "Y9wKxzI0"
+	},
+	"F_LEADER_SKILL_MST": {
+		"Name": "hJRV5oB0",
+		"Key": "XaFEuA43"
+	},
+	"F_LEARNING_MST": {
+		"Name": "DLVF0cN1",
+		"Key": "4HCdYk80"
+	},
+	"F_LIMITBURST_LV_MST": {
+		"Name": "0EvyjKh8",
+		"Key": "g2hZpVW7"
+	},
+	"F_LIMITBURST_MST": {
+		"Name": "c5T4PIyL",
+		"Key": "6q3eIR9k"
+	},
+	"F_LIMITED_PASS_MST": {
+		"Name": "mFZ7th9x",
+		"Key": "JghI46uD"
+	},
+	"F_LIMITED_SKILL_MST": {
+		"Name": "V6Qke9wf",
+		"Key": "UyQxAWBZ"
+	},
+	"F_LOCALIZED_TEXT_MST": {
+		"Name": "i5QEJpua",
+		"Key": "R8PYPnJ9"
+	},
+	"F_LOGIN_BONUS_MST": {
+		"Name": "P3raZX89",
+		"Key": "8xQP3fUZ"
+	},
+	"F_LOGIN_BONUS_SP_REWARD_MST": {
+		"Name": "JQ1c6DCd",
+		"Key": "Ym2rpIA7"
+	},
+	"F_LOGIN_BONUS_TOTAL_REWARD_MST": {
+		"Name": "J6dVmNv5",
+		"Key": "y57ZhtLI"
+	},
+	"F_MAGIC_EXPLAIN_MST": {
+		"Name": "8qbVQUx5",
+		"Key": "8LE2hk3r"
+	},
+	"F_MAGIC_MST": {
+		"Name": "6J8jwSDW",
+		"Key": "2zyP4WQY"
+	},
+	"F_MAP_EVENT_MST": {
+		"Name": "91vNbdxg",
+		"Key": "1YAk2fcr"
+	},
+	"F_MAP_EXT_RESOURCE_MST": {
+		"Name": "En90A5BC",
+		"Key": "9dA6bguS"
+	},
+	"F_MAP_OBJECT_MST": {
+		"Name": "7d25gta1",
+		"Key": "1zYSh5ps"
+	},
+	"F_MAP_ROUTE_MST": {
+		"Name": "F1a5PZYq",
+		"Key": "rASW8N5L"
+	},
+	"F_MATERIA_EXPLAIN_MST": {
+		"Name": "bW2GHT1N",
+		"Key": "7mof2RVP"
+	},
+	"F_MATERIA_LIMIT_MST": {
+		"Name": "BX0pRc8A",
+		"Key": "CVERk9KN"
+	},
+	"F_MATERIA_MST": {
+		"Name": "Af46DrVW",
+		"Key": "4MbdRZI6"
+	},
+	"F_MEDAL_EXCHANGE_MST": {
+		"Name": "",
+		"Key": "7FmTj0hp"
+	},
+	"F_MISSION_INCREASE_MST": {
+		"Name": "DhCILa50",
+		"Key": "5R79Kyvx"
+	},
+	"F_MISSION_MST": {
+		"Name": "24Eka6wL",
+		"Key": "naJ3P84b"
+	},
+	"F_MISSION_NOTICE_MST": {
+		"Name": "MTd4qG09",
+		"Key": "05PtnLXf"
+	},
+	"F_MISSION_SKILL_POINT_MST": {
+		"Name": "SeWZnBgT",
+		"Key": "dSCtehxp"
+	},
+	"F_MONSTER_DICTIONARY_EXPLAIN_MST": {
+		"Name": "Svq1K0rh",
+		"Key": "wA4Dxp1m"
+	},
+	"F_MONSTER_DICTIONARY_MST": {
+		"Name": "1r6jb9wB",
+		"Key": "wL4N16V3"
+	},
+	"F_MONSTER_SKILL_MST": {
+		"Name": "wJE09yxD",
+		"Key": "D6cJZb89"
+	},
+	"F_MONSTER_SKILL_SET_MST": {
+		"Name": "B9K8ULHc",
+		"Key": "p6iXmLh4"
+	},
+	"F_MORALE_BEFORE_BATTLE_RULE_MST": {
+		"Name": "ff5432ff",
+		"Key": "8e8dfdb0"
+	},
+	"F_MORALE_BONUS_RULE_MST": {
+		"Name": "5bc5ccd4",
+		"Key": "4ffa694d"
+	},
+	"F_MORALE_IN_BATTLE_RULE_MST": {
+		"Name": "ac83fdf9",
+		"Key": "bd718635"
+	},
+	"F_MORALE_MISSION_MST": {
+		"Name": "a2c5d0dc",
+		"Key": "e33a0dec"
+	},
+	"F_MYCARD_MST": {
+		"Name": "gJTPrUcS",
+		"Key": "eEEER1cd"
+	},
+	"F_NPC_MST": {
+		"Name": "94diC1bt",
+		"Key": "fvQ37cE0"
+	},
+	"F_NV_EX_CLASS_UP_MST": {
+		"Name": "0vf1STU2",
+		"Key": "Uoqk1TX2"
+	},
+	"F_NV_SHIFT_MST": {
+		"Name": "sT9k7wLE",
+		"Key": "70LnQ6UA"
+	},
+	"F_PANEL_QUEST_GROUP_MST": {
+		"Name": "6AvTqgXs",
+		"Key": "TrdG2ubW"
+	},
+	"F_PANEL_QUEST_MST": {
+		"Name": "jG2GqtV7",
+		"Key": "41x7kgDu"
+	},
+	"F_PICTURE_STORY_MST": {
+		"Name": "PSDIR8b1",
+		"Key": "SDV4mZL0"
+	},
+	"F_PLAYBACK_CHAPTER_MST": {
+		"Name": "Nm36woZx",
+		"Key": "gHLE4DM0"
+	},
+	"F_PLAYBACK_EVENT_MST": {
+		"Name": "IL78hX09",
+		"Key": "qWr8ZE2D"
+	},
+	"F_PLAYBACK_MAP_MST": {
+		"Name": "9Zdr5ap0",
+		"Key": "ZdM9VQb0"
+	},
+	"F_PLAYBACK_SEASON_MST": {
+		"Name": "D2zaT7Ru",
+		"Key": "UgLId19h"
+	},
+	"F_POPUP_MST": {
+		"Name": "DCgG5vBr",
+		"Key": "zjRdCncr"
+	},
+	"F_PROCESS_PASSIVE_TYPE_MST": {
+		"Name": "F4iU3HVM",
+		"Key": "Q5AHa17C"
+	},
+	"F_PROCESS_TYPE_MST": {
+		"Name": "2p79TmkL",
+		"Key": "BCe79tjk"
+	},
+	"F_PRODUCT_MST": {
+		"Name": "DEC8Jmy2",
+		"Key": "OEl4ZmDY"
+	},
+	"F_PURCHASE_AGE_LIMIT_MST": {
+		"Name": "okUH6yV7",
+		"Key": "ZDvrb16x"
+	},
+	"F_QUEST_MST": {
+		"Name": "2Px75LpY",
+		"Key": "20mEeKo3"
+	},
+	"F_QUEST_SUB_MST": {
+		"Name": "myGc0U5v",
+		"Key": "oWcL37sK"
+	},
+	"F_RANKUP_REWARD_MST": {
+		"Name": "BemPcH90",
+		"Key": "yn2Wwme5"
+	},
+	"F_RB_ABILITY_GROUP_MST": {
+		"Name": "UHk7x2V8",
+		"Key": "Q83j0GvZ"
+	},
+	"F_RB_AI_PATTERN_MST": {
+		"Name": "A6DJx0Qj",
+		"Key": "2phgAJt3"
+	},
+	"F_RB_BONUS_RULE_MST": {
+		"Name": "09u3Nzk2",
+		"Key": "7Hm6jxe3"
+	},
+	"F_RB_DEFINE_MST": {
+		"Name": "qzTG4ba0",
+		"Key": "2y1oT5gq"
+	},
+	"F_RB_FORBIDDEN_INFO_MST": {
+		"Name": "x6iQrD2e",
+		"Key": "8yWH5IGC"
+	},
+	"F_RB_LS_MST": {
+		"Name": "8tR1K79p",
+		"Key": "2nJN19qh"
+	},
+	"F_RB_LS_REWARD_MST": {
+		"Name": "0Nc4PkAJ",
+		"Key": "m7XJdkp1"
+	},
+	"F_RB_SS_MST": {
+		"Name": "gd74jWQn",
+		"Key": "gY7NiJL8"
+	},
+	"F_RB_SS_REWARD_MST": {
+		"Name": "cg5k2Mxn",
+		"Key": "KNWf37Bm"
+	},
+	"F_RB_TRADE_BOARD_MST": {
+		"Name": "yiuv0Fb9",
+		"Key": "cbqYR3s7"
+	},
+	"F_RB_TRADE_BOARD_PIECE_MST": {
+		"Name": "7Si5wPLj",
+		"Key": "fXZse89L"
+	},
+	"F_RECIPE_BOOK_MST": {
+		"Name": "yu5rvEI3",
+		"Key": "3t8DMRQE"
+	},
+	"F_RECIPE_MST": {
+		"Name": "27pGMZDm",
+		"Key": "JveAwh98"
+	},
+	"F_RESOURCE_CHECKSUM_MST": {
+		"Name": "9Hwur83G",
+		"Key": "92SkMNAx"
+	},
+	"F_RESOURCE_MAP_CHECKSUM_MST": {
+		"Name": "2RZ4uDoK",
+		"Key": "29Rd7ra0"
+	},
+	"F_RESOURCE_MAP_MST": {
+		"Name": "B7LnP2TH",
+		"Key": "U0Vd7AfQ"
+	},
+	"F_RESOURCE_MAP_VERSION_MST_LOCALIZE": {
+		"Name": "YIgCpDKW",
+		"Key": "geHlpoos"
+	},
+	"F_RESOURCE_MST": {
+		"Name": "ZQqB38Ns",
+		"Key": "u6q3F02d"
+	},
+	"F_RESOURCE_VERSION_MST_LOCALIZE": {
+		"Name": "A1L1GlaQ",
+		"Key": "JchlFPWK"
+	},
+	"F_RULE_MST": {
+		"Name": "7s4egUBN",
+		"Key": "sf2o1jWL"
+	},
+	"F_SACRIFICE_MST": {
+		"Name": "w5JFGPh3",
+		"Key": "J2u0YBPr"
+	},
+	"F_SEASON_EVENT_ABILITY_MST": {
+		"Name": "VMIe9c6U",
+		"Key": "Na71Z6kg"
+	},
+	"F_SEASON_EVENT_ABILITY_TYPE_MST": {
+		"Name": "I0SUr3WY",
+		"Key": "XY2MA1x3"
+	},
+	"F_SEASON_EVENT_GROUP_FRIEND_LV_MST": {
+		"Name": "v5aCt9ne",
+		"Key": "g7VmK5a9"
+	},
+	"F_SEASON_EVENT_REWARD_MST": {
+		"Name": "Snj41EiQ",
+		"Key": "wu5Zn6pA"
+	},
+	"F_SG_COMEBACK_QUEST_GROUP_MST": {
+		"Name": "J0zWp5jp",
+		"Key": "Ipr3c8SN"
+	},
+	"F_SG_COMEBACK_QUEST_MST": {
+		"Name": "a2U6BqrH",
+		"Key": "TlIjUjGM"
+	},
+	"F_SG_TIME_DUNGEON_MST": {
+		"Name": "pnjSbo89",
+		"Key": "UhUsWVhw"
+	},
+	"F_SHOP_MST": {
+		"Name": "1ks9q4Pj",
+		"Key": "X0FA6Ewh"
+	},
+	"F_SOUND_MST": {
+		"Name": "9bnqECY6",
+		"Key": "m2zHEtV0"
+	},
+	"F_SP_CHALLENGE_MST": {
+		"Name": "4b6NcpLo",
+		"Key": "wd1t3MPf"
+	},
+	"F_STATIC_PARTY_DECK_MST": {
+		"Name": "DQ71KBSd",
+		"Key": "uJTgZ67c"
+	},
+	"F_STATIC_UNIT_EQUIP_MST": {
+		"Name": "XaH20cRS",
+		"Key": "2pD9ivX1"
+	},
+	"F_STATIC_UNIT_MST": {
+		"Name": "wQ1LVGx6",
+		"Key": "nJA5e96H"
+	},
+	"F_STATIC_UNIT_SKILL_SUBLIMATION_MST": {
+		"Name": "g2R1yYzn",
+		"Key": "0o6wkbyv"
+	},
+	"F_STORE_ITEM_MST": {
+		"Name": "03cY9vXe",
+		"Key": "d60DCUMp"
+	},
+	"F_STORY_EVENT_MST": {
+		"Name": "YW9MUm2H",
+		"Key": "LyjM2nU9"
+	},
+	"F_STORY_MST": {
+		"Name": "IiVw7H6k",
+		"Key": "Cf2WZ8qA"
+	},
+	"F_STORY_SUB_MST": {
+		"Name": "8vneWT7G",
+		"Key": "8ci0TamY"
+	},
+	"F_STRONGBOX_MST": {
+		"Name": "X1xsdRk7",
+		"Key": "qPpXT0Z2"
+	},
+	"F_SUBLIMATION_RECIPE_MST": {
+		"Name": "M9K0SJgR",
+		"Key": "vnkfer76"
+	},
+	"F_SUMALLY_REWARD_MST": {
+		"Name": "RU2MH9o5",
+		"Key": "8HXr5ZMb"
+	},
+	"F_SWITCH_MST": {
+		"Name": "T46RpNZH",
+		"Key": "AUx51pni"
+	},
+	"F_SWITCH_TYPE_MST": {
+		"Name": "PJw28YRg",
+		"Key": "5NUkhS4Q"
+	},
+	"F_TEAM_LV_MST": {
+		"Name": "NCPTw2p0",
+		"Key": "qP7TGZE8"
+	},
+	"F_TELEPO_MST": {
+		"Name": "zw0kb3To",
+		"Key": "KENf4db1"
+	},
+	"F_TEXT_ABILITY_EXPLAIN_LONG": {
+		"Name": "uxMPAs4y",
+		"Key": "lECkWwBw"
+	},
+	"F_TEXT_ABILITY_EXPLAIN_SHORT": {
+		"Name": "8GJBzdQV",
+		"Key": "D9UVupRQ"
+	},
+	"F_TEXT_ABILITY_NAME": {
+		"Name": "eSB5Ry3E",
+		"Key": "At4ghcWo"
+	},
+	"F_TEXT_ABILITY_PARAM_MSG": {
+		"Name": "3oM745kA",
+		"Key": "OTxnCDr7"
+	},
+	"F_TEXT_ANALYTICS_ITEMS": {
+		"Name": "8e6PGb3p",
+		"Key": "7nyO4pC9"
+	},
+	"F_TEXT_ANALYTICS_LOCALIZE": {
+		"Name": "3sI39BAT",
+		"Key": "6zAQarn1"
+	},
+	"F_TEXT_ARCHIVE_NAME": {
+		"Name": "QR3zeiJr",
+		"Key": "CrZmyr8k"
+	},
+	"F_TEXT_AREA_NAME": {
+		"Name": "4qiOcmtJ",
+		"Key": "FhWJxFlW"
+	},
+	"F_TEXT_AWARD_EXPLAIN": {
+		"Name": "TlrlvFx5",
+		"Key": "XfXmnCNF"
+	},
+	"F_TEXT_AWARD_NAME": {
+		"Name": "mGPBqPdv",
+		"Key": "G9IOqfaz"
+	},
+	"F_TEXT_AWARD_TYPE": {
+		"Name": "soohaWOo",
+		"Key": "b23aWS6d"
+	},
+	"F_TEXT_BATTLE_SCRIPT": {
+		"Name": "dhR7sSxt",
+		"Key": "QuxKHQQT"
+	},
+	"F_TEXT_BEAST_NAME": {
+		"Name": "148O76GI",
+		"Key": "pzLuYoDO"
+	},
+	"F_TEXT_BEAST_SKILL_DES": {
+		"Name": "Yjq14lAB",
+		"Key": "g5SJviEC"
+	},
+	"F_TEXT_BEAST_SKILL_NAME": {
+		"Name": "k51drhZ6",
+		"Key": "JHJRAcEx"
+	},
+	"F_TEXT_CAPTURE_INFO": {
+		"Name": "Ir2B1EBL",
+		"Key": "Ak7An4Ys"
+	},
+	"F_TEXT_CHALLENGE_NAME": {
+		"Name": "4bQbA2FH",
+		"Key": "SFaS7rXZ"
+	},
+	"F_TEXT_CHARACTER_NAME": {
+		"Name": "JIqrNzje",
+		"Key": "iizk8FjI"
+	},
+	"F_TEXT_COLOSSEUM_GRADE": {
+		"Name": "Y2rngIF3",
+		"Key": "7Vzk5Oq9"
+	},
+	"F_TEXT_COLOSSEUM_MONSTER_GROUP_NAME": {
+		"Name": "q4z5D08C",
+		"Key": "04zFXazI"
+	},
+	"F_TEXT_DAILY_QUEST_DES": {
+		"Name": "W4525rcx",
+		"Key": "1ihwWs7f"
+	},
+	"F_TEXT_DAILY_QUEST_DETAIL": {
+		"Name": "gCfFcx75",
+		"Key": "xpLyjA9A"
+	},
+	"F_TEXT_DAILY_QUEST_NAME": {
+		"Name": "FBBD8vv6",
+		"Key": "BhDl8FWG"
+	},
+	"F_TEXT_DIAMOND_NAME": {
+		"Name": "mcQeT7mq",
+		"Key": "tN7Gjdpv"
+	},
+	"F_TEXT_DUNGEON_NAME": {
+		"Name": "AyVqkz2B",
+		"Key": "0cqVvd61"
+	},
+	"F_TEXT_EXCHANGE_SHOP_ITEM": {
+		"Name": "r1ZLxyyg",
+		"Key": "fT1SbKUm"
+	},
+	"F_TEXT_GACHA": {
+		"Name": "ZJz5QwAy",
+		"Key": "Ab2Kb6yJ"
+	},
+	"F_TEXT_GAME_TITLE_NAME": {
+		"Name": "3CzC5zn7",
+		"Key": "SA6Bv7i1"
+	},
+	"F_TEXT_IMPORTANT_ITEM_EXPLAIN_LONG": {
+		"Name": "aJ4tvgSq",
+		"Key": "iElLxksB"
+	},
+	"F_TEXT_IMPORTANT_ITEM_EXPLAIN_SHORT": {
+		"Name": "YBqAUJt1",
+		"Key": "Fc6H1Udw"
+	},
+	"F_TEXT_IMPORTANT_ITEM_NAME": {
+		"Name": "TIKwbf3D",
+		"Key": "lx4HCdrQ"
+	},
+	"F_TEXT_IMPORTANT_ITEM_SHOP": {
+		"Name": "JO7UqqJ6",
+		"Key": "EzACmD0Y"
+	},
+	"F_TEXT_ITEM_EQUIP_LONG": {
+		"Name": "CD4giPVu",
+		"Key": "jqe9yQm0"
+	},
+	"F_TEXT_ITEM_EQUIP_NAME": {
+		"Name": "E0NdslwL",
+		"Key": "SGMI0nIq"
+	},
+	"F_TEXT_ITEM_EQUIP_SHORT": {
+		"Name": "Nao9HYWk",
+		"Key": "I0l1uc2s"
+	},
+	"F_TEXT_ITEM_EXPLAIN_LONG": {
+		"Name": "9NCIDltW",
+		"Key": "s3fVSywt"
+	},
+	"F_TEXT_ITEM_EXPLAIN_SHORT": {
+		"Name": "IAPS1jOu",
+		"Key": "TZh30bbo"
+	},
+	"F_TEXT_ITEM_NAME": {
+		"Name": "VhkhtvDn",
+		"Key": "xDkegMbe"
+	},
+	"F_TEXT_JOB_NAME": {
+		"Name": "yUkwbFyc",
+		"Key": "R6mBb3T3"
+	},
+	"F_TEXT_LAND_NAME": {
+		"Name": "sKLZVYWQ",
+		"Key": "yYnTSUtm"
+	},
+	"F_TEXT_LIMIT_BURST_DES": {
+		"Name": "EUsG7rlQ",
+		"Key": "ZcXYp8BI"
+	},
+	"F_TEXT_LIMIT_BURST_NAME": {
+		"Name": "XBS8hLZD",
+		"Key": "zswbSb5U"
+	},
+	"F_TEXT_MAGIC_EXPLAIN_LONG": {
+		"Name": "Jcavjyxo",
+		"Key": "ZFHehCN4"
+	},
+	"F_TEXT_MAGIC_EXPLAIN_SHORT": {
+		"Name": "Hs9KVVnj",
+		"Key": "raokY9Xl"
+	},
+	"F_TEXT_MAGIC_NAME": {
+		"Name": "1ZqISaBp",
+		"Key": "9TAwFj0e"
+	},
+	"F_TEXT_MAP_OBJECT": {
+		"Name": "15KaBQci",
+		"Key": "U56G5oiU"
+	},
+	"F_TEXT_MATERIA_EXPLAIN_LONG": {
+		"Name": "QEbXmDTD",
+		"Key": "3ZaDmbq1"
+	},
+	"F_TEXT_MATERIA_EXPLAIN_SHORT": {
+		"Name": "8g18k8jD",
+		"Key": "DvdwoXYQ"
+	},
+	"F_TEXT_MATERIA_NAME": {
+		"Name": "2Eg5s20D",
+		"Key": "E5jbLGyb"
+	},
+	"F_TEXT_MISSION": {
+		"Name": "pa6vblsG",
+		"Key": "GdAhtrNB"
+	},
+	"F_TEXT_MONSTER_DICTIONARY_NAME": {
+		"Name": "F1VQsGpG",
+		"Key": "uEOGF11w"
+	},
+	"F_TEXT_MONSTER_DIC_EXPLAIN_LONG": {
+		"Name": "xe6RH45K",
+		"Key": "p9l4ys4L"
+	},
+	"F_TEXT_MONSTER_DIC_EXPLAIN_SHORT": {
+		"Name": "zf7USTwU",
+		"Key": "OJir9FR5"
+	},
+	"F_TEXT_MONSTER_NAME": {
+		"Name": "0xkPiwVI",
+		"Key": "UOz3hI2k"
+	},
+	"F_TEXT_MONSTER_PART_DIC_NAME": {
+		"Name": "P4c5fq2t",
+		"Key": "XhCacZZv"
+	},
+	"F_TEXT_MONSTER_SKILL_NAME": {
+		"Name": "F1z92dkt",
+		"Key": "B41kLp2C"
+	},
+	"F_TEXT_MONSTER_SKILL_SET_NAME": {
+		"Name": "76oKZdNU",
+		"Key": "mOz786Zr"
+	},
+	"F_TEXT_NPC_NAME": {
+		"Name": "A55coosK",
+		"Key": "xQj2cuc8"
+	},
+	"F_TEXT_PICTURE_STORY_NAME": {
+		"Name": "j525zYCH",
+		"Key": "Pe21ACFe"
+	},
+	"F_TEXT_QUEST": {
+		"Name": "NMwfx1lf",
+		"Key": "KVBowHC2"
+	},
+	"F_TEXT_QUEST_SUB_DETAIL": {
+		"Name": "vb5Nom5d",
+		"Key": "sCFyRxng"
+	},
+	"F_TEXT_QUEST_SUB_NAME": {
+		"Name": "uuU68I2u",
+		"Key": "cnW2w71S"
+	},
+	"F_TEXT_QUEST_SUB_STORY": {
+		"Name": "fULaqIeB",
+		"Key": "CueuZNTN"
+	},
+	"F_TEXT_QUEST_SUB_TARGET_PARAM": {
+		"Name": "Cw3B65ql",
+		"Key": "W4rz5Sas"
+	},
+	"F_TEXT_RB_ABILITY_GROUP_DESCRIPTION": {
+		"Name": "3sxyv1w9",
+		"Key": "v30p83B2"
+	},
+	"F_TEXT_RB_ABILITY_GROUP_NAME": {
+		"Name": "69zUY4Zb",
+		"Key": "qEAmEfJU"
+	},
+	"F_TEXT_RB_BONUS_RULE_DESCRIPTION": {
+		"Name": "10Ew2Rth",
+		"Key": "AGItS6CC"
+	},
+	"F_TEXT_RB_BONUS_RULE_NAME": {
+		"Name": "6YYynT87",
+		"Key": "YC0psthA"
+	},
+	"F_TEXT_RB_FORBIDDEN_INFO_DESCRIPTION": {
+		"Name": "M6bRb5Eg",
+		"Key": "ScqX2kIE"
+	},
+	"F_TEXT_RB_FORBIDDEN_INFO_NAME": {
+		"Name": "DaNvFWp7",
+		"Key": "wxea5c0t"
+	},
+	"F_TEXT_RECIPE_BOOK_NAME": {
+		"Name": "tFnHkR8G",
+		"Key": "lEWsm9iI"
+	},
+	"F_TEXT_SCENARIO_BATTLE": {
+		"Name": "TGxop4tW",
+		"Key": "ZCIcuxf3"
+	},
+	"F_TEXT_SEASON_EVENT_ABILITY_NAME": {
+		"Name": "q81b55dv",
+		"Key": "E6Jrump4"
+	},
+	"F_TEXT_SEASON_EVENT_ABILITY_TYPE_DESCRIPTION": {
+		"Name": null,
+		"Key": null
+	},
+	"F_TEXT_SEASON_EVENT_ABILITY_TYPE_NAME": {
+		"Name": "xT67VZAS",
+		"Key": "jFgn6bIU"
+	},
+	"F_TEXT_SEASON_EVENT_DESCRIPTION": {
+		"Name": "mKbhB8ai",
+		"Key": "Kt30PvJg"
+	},
+	"F_TEXT_SEASON_EVENT_NAME": {
+		"Name": "FxaCYmHE",
+		"Key": "NwKi0CpP"
+	},
+	"F_TEXT_SHOP": {
+		"Name": "NYz5Oxm4",
+		"Key": "yBd5wOHp"
+	},
+	"F_TEXT_STORY_NAME": {
+		"Name": "fKGHnuPm",
+		"Key": "nJswCIXz"
+	},
+	"F_TEXT_STORY_SUB": {
+		"Name": "hiiVWxXJ",
+		"Key": "ucOQs1YO"
+	},
+	"F_TEXT_SUBLIMATION_EXPLAIN": {
+		"Name": "JF89DHPE",
+		"Key": "SkUNQP6F"
+	},
+	"F_TEXT_TELEPO_NAME": {
+		"Name": "ca5XNnWD",
+		"Key": "WfvQbAKG"
+	},
+	"F_TEXT_TEXT_EN": {
+		"Name": "0ThfQQWd",
+		"Key": "s9E34w78"
+	},
+	"F_TEXT_TICKER": {
+		"Name": "RUPcXt7J",
+		"Key": "tHaAyyqI"
+	},
+	"F_TEXT_TOWN_EXPLAIN": {
+		"Name": "KLoYS0Tj",
+		"Key": "0BZOtiRB"
+	},
+	"F_TEXT_TOWN_NAME": {
+		"Name": "N12vEZpN",
+		"Key": "11yq2cUt"
+	},
+	"F_TEXT_TOWN_STORE": {
+		"Name": "h23JuUGF",
+		"Key": "Jovaw62m"
+	},
+	"F_TEXT_TOWN_STORE_COMMENT": {
+		"Name": "SZXTrTgq",
+		"Key": "oVpBUtX2"
+	},
+	"F_TEXT_TOWN_STORE_OWNER_NAME": {
+		"Name": "KFL34pbm",
+		"Key": "Q9HMWNZG"
+	},
+	"F_TEXT_TRIBE": {
+		"Name": "Z6OfsPv9",
+		"Key": "FAfGhIMo"
+	},
+	"F_TEXT_TROPHY_EXPLAIN": {
+		"Name": "pNeHXqpJ",
+		"Key": "OJV9Jpm8"
+	},
+	"F_TEXT_TROPHY_METER_SERIF": {
+		"Name": "7BfBBf9E",
+		"Key": "S410iF8y"
+	},
+	"F_TEXT_UNITS_NAME": {
+		"Name": "sZE3Lhgj",
+		"Key": "3IfWAnJ3"
+	},
+	"F_TEXT_UNIT_AFFINITY": {
+		"Name": "Zfw0jmyn",
+		"Key": "xCppLKwD"
+	},
+	"F_TEXT_UNIT_DESCRIPTION": {
+		"Name": "w6U2ntyZ",
+		"Key": "VNh3r92R"
+	},
+	"F_TEXT_UNIT_EVO": {
+		"Name": "7tfppWVS",
+		"Key": "OYQn68Hu"
+	},
+	"F_TEXT_UNIT_EXPLAIN_SHOP": {
+		"Name": "3uEWl5CV",
+		"Key": "QrOn67A8"
+	},
+	"F_TEXT_UNIT_FUSION": {
+		"Name": "TpbDECdR",
+		"Key": "v47OlIK4"
+	},
+	"F_TEXT_UNIT_SUMMON": {
+		"Name": "hWE8dJMC",
+		"Key": "GInxSlTN"
+	},
+	"F_TEXT_VISION_CARD_NAME": {
+		"Name": "jDYeUTZA",
+		"Key": "PJu2EYP8"
+	},
+	"F_TEXT_WORLD_NAME": {
+		"Name": "GPNXLUJP",
+		"Key": "uDFuhlR6"
+	},
+	"F_TFA_GAMBIT_EVENT_MST": {
+		"Name": "a46f3a95",
+		"Key": "fd1520fe"
+	},
+	"F_TFA_GAMBIT_MST": {
+		"Name": "ea60f5f4",
+		"Key": "a1f557f1"
+	},
+	"F_TICKER_DEFINE_MESSAGE_MST": {
+		"Name": "tUQ2Lkc1",
+		"Key": "6TQR0hSX"
+	},
+	"F_TICKER_LOG_CATEGORY_MST": {
+		"Name": "QmnZ48Fs",
+		"Key": "hJ91Gkz5"
+	},
+	"F_TICKER_MST": {
+		"Name": "5WJ9MQ3n",
+		"Key": "h92Fk0Qw"
+	},
+	"F_TICKET_MST": {
+		"Name": "95KFiNTM",
+		"Key": "0sDdWku8"
+	},
+	"F_TOWN_EXPLAIN_MST": {
+		"Name": "QJF37LcR",
+		"Key": "1ThX6WNZ"
+	},
+	"F_TOWN_MST": {
+		"Name": "6P9XZ7ts",
+		"Key": "IavY38oB"
+	},
+	"F_TOWN_STORE_COMMENT_MST": {
+		"Name": "ASh8IH0b",
+		"Key": "1L7oneM4"
+	},
+	"F_TOWN_STORE_MST": {
+		"Name": "v34C8PdG",
+		"Key": "Si9bxe86"
+	},
+	"F_TRIBE_MST": {
+		"Name": "3Lc1DWQV",
+		"Key": "adj41LQC"
+	},
+	"F_TROPHY_EXPLAIN_MST": {
+		"Name": "yhnT19Z4",
+		"Key": "JPTK6q4V"
+	},
+	"F_TROPHY_METER_SERIF_MST": {
+		"Name": "4Qz7qK51",
+		"Key": "SGjk89Tr"
+	},
+	"F_TROPHY_MST": {
+		"Name": "9ZN4Eo1m",
+		"Key": "5qRZs6Kz"
+	},
+	"F_TROPHY_REWARD_MST": {
+		"Name": "GN1bMQm3",
+		"Key": "KyAC0q3D"
+	},
+	"F_UNIT_CHARACTER_MST": {
+		"Name": "Y9yix20c",
+		"Key": "stL0SY5I"
+	},
+	"F_UNIT_CLASS_UP_MST": {
+		"Name": "60FtuAhp",
+		"Key": "pjW5TI0K"
+	},
+	"F_UNIT_EXPLAIN_MST": {
+		"Name": "Da62x85q",
+		"Key": "zU6L4Gng"
+	},
+	"F_UNIT_EXP_PATTERN_MST": {
+		"Name": "kMnY10ry",
+		"Key": "B38YWDtF"
+	},
+	"F_UNIT_GROW_MST": {
+		"Name": "i3YrEM1t",
+		"Key": "6cUguh10"
+	},
+	"F_UNIT_MST": {
+		"Name": "SsidX62G",
+		"Key": "UW0D8ouL"
+	},
+	"F_UNIT_ROLE_MST": {
+		"Name": "HgULPb69",
+		"Key": "eAz6X15L"
+	},
+	"F_UNIT_SERIES_CHALLENGE_MST": {
+		"Name": "UjyC72ud",
+		"Key": "TNaqqXrS"
+	},
+	"F_UNIT_SERIES_HIDDEN_SKILL_MST": {
+		"Name": "A5qV5ssR",
+		"Key": "htXe8Tdp"
+	},
+	"F_UNIT_SERIES_LV_ACQUIRE_MST": {
+		"Name": "Eb5ewi87",
+		"Key": "t8QV2WvE"
+	},
+	"F_UNIT_SERIES_POWER_UP_POINT_MST": {
+		"Name": "cKro03MB",
+		"Key": "2ngHSEd0"
+	},
+	"F_UNIT_SUB_CATEGORY_MST": {
+		"Name": "jqv20D3o",
+		"Key": "sa7AT3eG"
+	},
+	"F_UNIT_TRANSLATE_RATE_MST": {
+		"Name": "87p6gkuV",
+		"Key": "skp9EyT5"
+	},
+	"F_URL_MST": {
+		"Name": "9wmd4iua",
+		"Key": "UREmi85S"
+	},
+	"F_VISION_CARD_ABILITY_ACT_COND_MST": {
+		"Name": "jTGeKc87",
+		"Key": "S0ATBUP1"
+	},
+	"F_VISION_CARD_ABILITY_GROUP_MST": {
+		"Name": "2wHP4tXr",
+		"Key": "PI8sH9nC"
+	},
+	"F_VISION_CARD_EXPLAIN_MST": {
+		"Name": "y8G2PKDk",
+		"Key": "U0jS43vH"
+	},
+	"F_VISION_CARD_EXP_PATTERN_MST": {
+		"Name": "8i9R2qUY",
+		"Key": "pk73b1XU"
+	},
+	"F_VISION_CARD_GROW_MST": {
+		"Name": "utBeD01i",
+		"Key": "U6iuscS1"
+	},
+	"F_VISION_CARD_LV_ACQUIRE_MST": {
+		"Name": "9uqRjwS6",
+		"Key": "MI28ZNHo"
+	},
+	"F_VISION_CARD_MST": {
+		"Name": "G9K8kLXz",
+		"Key": "6MS9LGhA"
+	},
+	"F_WORLD_MST": {
+		"Name": "JLxQW68j",
+		"Key": "t8bWUq9Z"
+	}
+}
